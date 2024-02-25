@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.DefaultCompany.Practica2_Alan_Sanchez",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "0.1",
+      "outputFile": "launcher-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

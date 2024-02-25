@@ -1,0 +1,234 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.Practica2_Alan_Sanchez"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="26"
+9-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-64
+20
+21    <uses-feature
+21-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-54
+22        android:glEsVersion="0x00030000"
+22-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:19-51
+23        android:required="true" />
+23-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:15:9-32
+24    <uses-feature
+24-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-15:36
+25        android:name="android.hardware.vulkan.version"
+25-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-55
+26        android:required="false" />
+26-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-33
+27    <uses-feature
+27-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:5-18:36
+28        android:name="android.hardware.touchscreen"
+28-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-52
+29        android:required="false" />
+29-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-33
+30    <uses-feature
+30-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:5-21:36
+31        android:name="android.hardware.touchscreen.multitouch"
+31-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-63
+32        android:required="false" />
+32-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-33
+33    <uses-feature
+33-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-24:36
+34        android:name="android.hardware.touchscreen.multitouch.distinct"
+34-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-72
+35        android:required="false" />
+35-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-33
+36
+37    <uses-permission android:name="android.permission.CAMERA" />
+37-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:17:5-65
+37-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:17:22-62
+38    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+38-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:18:5-81
+38-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:18:22-78
+39    <uses-permission android:name="android.permission.NFC" />
+39-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:20:5-62
+39-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:20:22-59
+40    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+41
+42    <application
+42-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.7.0] C:\Users\alans\.gradle\caches\transforms-3\02483169c4c9e0ddffa88758188ac6f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+44        android:extractNativeLibs="true"
+44-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:18-50
+45        android:icon="@mipmap/app_icon"
+45-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+46        android:label="@string/app_name" >
+46-->C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+47        <meta-data
+47-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-29:33
+48            android:name="unity.splash-mode"
+48-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-45
+49            android:value="0" />
+49-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-30
+50        <meta-data
+50-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:9-32:36
+51            android:name="unity.splash-enable"
+51-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-47
+52            android:value="True" />
+52-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-33
+53        <meta-data
+53-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:9-35:36
+54            android:name="unity.launch-fullscreen"
+54-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:13-51
+55            android:value="True" />
+55-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-33
+56        <meta-data
+56-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:9-38:50
+57            android:name="notch.config"
+57-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-40
+58            android:value="portrait|landscape" />
+58-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-47
+59        <meta-data
+59-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:9-41:36
+60            android:name="unity.auto-report-fully-drawn"
+60-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-57
+61            android:value="true" />
+61-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-33
+62
+63        <activity
+63-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-64:20
+64            android:name="com.unity3d.player.UnityPlayerActivity"
+64-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-66
+65            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+65-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-194
+66            android:exported="true"
+66-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-36
+67            android:hardwareAccelerated="false"
+67-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-48
+68            android:launchMode="singleTask"
+68-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-44
+69            android:resizeableActivity="false"
+69-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-47
+70            android:screenOrientation="landscape"
+70-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-50
+71            android:theme="@style/UnityThemeSelector" >
+71-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-54
+72            <intent-filter>
+72-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-56:29
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:17-77
+73-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:27-74
+74
+75                <action android:name="android.intent.action.MAIN" />
+75-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:17-69
+75-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:25-66
+76            </intent-filter>
+77
+78            <meta-data
+78-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-60:40
+79                android:name="unityplayer.UnityActivity"
+79-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:17-57
+80                android:value="true" />
+80-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-37
+81            <meta-data
+81-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-63:40
+82                android:name="notch_support"
+82-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-45
+83                android:value="true" />
+83-->[:unityLibrary] C:\Users\alans\OneDrive\Desktop\Practicas TSDIC3\Practicas_Alan_Sanchez\Practica1_AlanSanchez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:17-37
+84        </activity>
+85        <activity
+85-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:23:9-27:66
+86            android:name="com.google.cardboard.sdk.QrCodeCaptureActivity"
+86-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:24:13-74
+87            android:exported="false"
+87-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:25:13-37
+88            android:label="@string/title_activity_qr_code_capture"
+88-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:26:13-67
+89            android:theme="@style/Theme.AppCompat.NoActionBar" />
+89-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:27:13-63
+90        <!--
+91          Activity whose sole purpose is to update Cardboard device params when a Cardboard V1
+92          NFC tag is detected.
+93        -->
+94        <activity
+94-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:33:9-46:20
+95            android:name="com.google.cardboard.sdk.HeadsetDetectionActivity"
+95-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:34:13-77
+96            android:exported="true"
+96-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:35:13-36
+97            android:label="@string/headset_detection_activity_title" >
+97-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:36:13-69
+98
+99            <!-- Handles the Cardboard V1 NFC tag released at Google I/O 2014. -->
+100            <intent-filter>
+100-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:39:13-45:29
+101                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+101-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:40:17-77
+101-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:40:25-74
+102
+103                <category android:name="android.intent.category.DEFAULT" />
+103-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:42:17-76
+103-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:42:27-73
+104
+105                <data android:scheme="cardboard" />
+105-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:44:17-52
+105-->[:GfxPluginCardboard:] C:\Users\alans\.gradle\caches\transforms-3\eef37e1ce57b6b26d681cc2f1bef0454\transformed\jetified-GfxPluginCardboard\AndroidManifest.xml:44:23-49
+106            </intent-filter>
+107        </activity>
+108        <activity
+108-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\f518eab4c850884b5283bda4fad0ec01\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+109            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+109-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\f518eab4c850884b5283bda4fad0ec01\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\f518eab4c850884b5283bda4fad0ec01\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\f518eab4c850884b5283bda4fad0ec01\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+112
+113        <meta-data
+113-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\ab2231142a80c71c11b6b755bf642e89\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+114            android:name="com.google.android.gms.version"
+114-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\ab2231142a80c71c11b6b755bf642e89\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+115            android:value="@integer/google_play_services_version" />
+115-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\alans\.gradle\caches\transforms-3\ab2231142a80c71c11b6b755bf642e89\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+116
+117        <provider
+117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+118            android:name="androidx.startup.InitializationProvider"
+118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+119            android:authorities="com.DefaultCompany.Practica2_Alan_Sanchez.androidx-startup"
+119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+120            android:exported="false" >
+120-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+121            <meta-data
+121-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+122                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+122-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+123                android:value="androidx.startup" />
+123-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alans\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+124            <meta-data
+124-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alans\.gradle\caches\transforms-3\e2a4092d19f5ec1c3a53b27f970ef211\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+125                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+125-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alans\.gradle\caches\transforms-3\e2a4092d19f5ec1c3a53b27f970ef211\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+126                android:value="androidx.startup" />
+126-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alans\.gradle\caches\transforms-3\e2a4092d19f5ec1c3a53b27f970ef211\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+127        </provider>
+128    </application>
+129
+130</manifest>

@@ -1,0 +1,660 @@
+﻿#include "pch-cpp.hpp"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include <limits>
+
+
+
+struct IntegratedSubsystemDescriptor_1_t70BCBD395B99126866E0354041C8DCD1CE80A714;
+struct IntegratedSubsystemDescriptor_1_t7261AA0914165CB589AD41C4F9B463D44E333D7C;
+struct IntegratedSubsystemDescriptor_1_t440D086A98F968B9FC279854F552698F319A32F7;
+struct IntegratedSubsystem_1_t6CAFC4ADB928A1CB6A1BAA66C12250FB6C841842;
+struct IntegratedSubsystem_1_t8312865F01EEA1EDE4B24A973E47ADD526616848;
+struct IntegratedSubsystem_1_tF93BC76362E85BDD215312162457BE510FC76D3B;
+struct CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB;
+struct ISubsystemDescriptor_tEF29944D579CC7D70F52CB883150735991D54E6E;
+struct RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27;
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
+struct XRDisplaySubsystem_t4B00B0BF1894A039ACFA8DDC2C2EB9301118C1F1;
+struct XRDisplaySubsystemDescriptor_t72DD88EE9094488AE723A495F48884BA4EA8311A;
+struct XRInputSubsystem_tFECE6683FCAEBF05BAD05E5D612690095D8BAD34;
+struct XRInputSubsystemDescriptor_t42088DD6542C0BDD27C2951B911E4F69DD1F917D;
+
+IL2CPP_EXTERN_C const RuntimeMethod* IntegratedSubsystemDescriptor_1__ctor_m1289BA32AAFA862973132927F7EA8FB1A9A169C3_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* IntegratedSubsystemDescriptor_1__ctor_mBE55B2B969E5AEF4340234DB6B76F67C009DBB75_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* IntegratedSubsystem_1__ctor_m0BE780FA80AAFE2DB1209D5731A5E72EFAB7051F_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* IntegratedSubsystem_1__ctor_m5A4E8498952FD1A7C4BFF13C388548CB97B060CC_RuntimeMethod_var;
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+struct U3CModuleU3E_t98AB86DBD4B6990BFAA7E2230BDA19430302AC99 
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_pinvoke
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_com
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2  : public ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_pinvoke
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_com
+{
+};
+struct IntPtr_t 
+{
+	void* ___m_value;
+};
+struct Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D 
+{
+	float ___m_XMin;
+	float ___m_YMin;
+	float ___m_Width;
+	float ___m_Height;
+};
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915 
+{
+	union
+	{
+		struct
+		{
+		};
+		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
+	};
+};
+struct BuiltinRenderTextureType_t3D56813CAC7C6E4AC3B438039BD1CE7E62FE7C4E 
+{
+	int32_t ___value__;
+};
+struct ColorGamut_tDE5F58926F111C9EC0B46ECF29CBCCEFDEC8FFA3 
+{
+	int32_t ___value__;
+};
+struct CubemapFace_t300D6E2CD7DF60D44AA28338748B607677ED1D1B 
+{
+	int32_t ___value__;
+};
+struct GraphicsFormat_tC3D1898F3F3F1F57256C7F3FFD6BA9A37AE7E713 
+{
+	int32_t ___value__;
+};
+struct IntegratedSubsystem_t990160A89854D87C0836DC589B720231C02D4CE3  : public RuntimeObject
+{
+	intptr_t ___m_Ptr;
+	RuntimeObject* ___m_SubsystemDescriptor;
+};
+struct IntegratedSubsystem_t990160A89854D87C0836DC589B720231C02D4CE3_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr;
+	RuntimeObject* ___m_SubsystemDescriptor;
+};
+struct IntegratedSubsystem_t990160A89854D87C0836DC589B720231C02D4CE3_marshaled_com
+{
+	intptr_t ___m_Ptr;
+	RuntimeObject* ___m_SubsystemDescriptor;
+};
+struct IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D  : public RuntimeObject
+{
+	intptr_t ___m_Ptr;
+};
+struct IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_marshaled_pinvoke
+{
+	intptr_t ___m_Ptr;
+};
+struct IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_marshaled_com
+{
+	intptr_t ___m_Ptr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C  : public RuntimeObject
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_pinvoke
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_com
+{
+	intptr_t ___m_CachedPtr;
+};
+struct RenderTextureCreationFlags_t1C01993691E5BA956575134696509089FE852F50 
+{
+	int32_t ___value__;
+};
+struct RenderTextureMemoryless_tE3B7F3AE353C3E9ACF86076376EB862131D19A69 
+{
+	int32_t ___value__;
+};
+struct ShadowSamplingMode_t8BE740C4258CFEDDBAC01FDC0438D8EE3F776BA8 
+{
+	int32_t ___value__;
+};
+struct TextureDimension_t8D7148B9168256EE1E9AF91378ABA148888CE642 
+{
+	int32_t ___value__;
+};
+struct VRTextureUsage_t57FAA0077810142A461D74EDC5E33FC3D78BD2E8 
+{
+	int32_t ___value__;
+};
+struct XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0 
+{
+	intptr_t ___displaySubsystemInstance;
+	bool ___nativeBlitAvailable;
+	bool ___nativeBlitInvalidStates;
+	int32_t ___blitParamsCount;
+};
+struct XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_pinvoke
+{
+	intptr_t ___displaySubsystemInstance;
+	int32_t ___nativeBlitAvailable;
+	int32_t ___nativeBlitInvalidStates;
+	int32_t ___blitParamsCount;
+};
+struct XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_com
+{
+	intptr_t ___displaySubsystemInstance;
+	int32_t ___nativeBlitAvailable;
+	int32_t ___nativeBlitInvalidStates;
+	int32_t ___blitParamsCount;
+};
+struct IntegratedSubsystemDescriptor_1_t7261AA0914165CB589AD41C4F9B463D44E333D7C  : public IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D
+{
+};
+#ifndef IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_pinvoke_define
+#define IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_pinvoke_define
+struct IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_pinvoke : public IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_marshaled_pinvoke
+{
+};
+#endif
+#ifndef IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_com_define
+#define IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_com_define
+struct IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_com : public IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_marshaled_com
+{
+};
+#endif
+struct IntegratedSubsystemDescriptor_1_t440D086A98F968B9FC279854F552698F319A32F7  : public IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D
+{
+};
+#ifndef IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_pinvoke_define
+#define IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_pinvoke_define
+struct IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_pinvoke : public IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_marshaled_pinvoke
+{
+};
+#endif
+#ifndef IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_com_define
+#define IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_com_define
+struct IntegratedSubsystemDescriptor_1_tC541D17A8306FA1C3A608A1328A6DBFDA3264671_marshaled_com : public IntegratedSubsystemDescriptor_t9232963B842E01748A8E032928DC8E35DF00C10D_marshaled_com
+{
+};
+#endif
+struct IntegratedSubsystem_1_t8312865F01EEA1EDE4B24A973E47ADD526616848  : public IntegratedSubsystem_t990160A89854D87C0836DC589B720231C02D4CE3
+{
+};
+struct IntegratedSubsystem_1_tF93BC76362E85BDD215312162457BE510FC76D3B  : public IntegratedSubsystem_t990160A89854D87C0836DC589B720231C02D4CE3
+{
+};
+struct RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B 
+{
+	int32_t ___m_Type;
+	int32_t ___m_NameID;
+	int32_t ___m_InstanceID;
+	intptr_t ___m_BufferPointer;
+	int32_t ___m_MipLevel;
+	int32_t ___m_CubeFace;
+	int32_t ___m_DepthSlice;
+};
+struct RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 
+{
+	int32_t ___U3CwidthU3Ek__BackingField;
+	int32_t ___U3CheightU3Ek__BackingField;
+	int32_t ___U3CmsaaSamplesU3Ek__BackingField;
+	int32_t ___U3CvolumeDepthU3Ek__BackingField;
+	int32_t ___U3CmipCountU3Ek__BackingField;
+	int32_t ____graphicsFormat;
+	int32_t ___U3CstencilFormatU3Ek__BackingField;
+	int32_t ___U3CdepthStencilFormatU3Ek__BackingField;
+	int32_t ___U3CdimensionU3Ek__BackingField;
+	int32_t ___U3CshadowSamplingModeU3Ek__BackingField;
+	int32_t ___U3CvrUsageU3Ek__BackingField;
+	int32_t ____flags;
+	int32_t ___U3CmemorylessU3Ek__BackingField;
+};
+struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9 
+{
+	RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* ___srcTex;
+	int32_t ___srcTexArraySlice;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___srcRect;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___destRect;
+	intptr_t ___foveatedRenderingInfo;
+	bool ___srcHdrEncoded;
+	int32_t ___srcHdrColorGamut;
+	int32_t ___srcHdrMaxLuminance;
+};
+struct XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_pinvoke
+{
+	RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* ___srcTex;
+	int32_t ___srcTexArraySlice;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___srcRect;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___destRect;
+	intptr_t ___foveatedRenderingInfo;
+	int32_t ___srcHdrEncoded;
+	int32_t ___srcHdrColorGamut;
+	int32_t ___srcHdrMaxLuminance;
+};
+struct XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_com
+{
+	RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27* ___srcTex;
+	int32_t ___srcTexArraySlice;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___srcRect;
+	Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___destRect;
+	intptr_t ___foveatedRenderingInfo;
+	int32_t ___srcHdrEncoded;
+	int32_t ___srcHdrColorGamut;
+	int32_t ___srcHdrMaxLuminance;
+};
+struct RenderTexture_tBA90C4C3AD9EECCFDDCC632D97C29FAB80D60D27  : public Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700
+{
+};
+struct XRDisplaySubsystem_t4B00B0BF1894A039ACFA8DDC2C2EB9301118C1F1  : public IntegratedSubsystem_1_t8312865F01EEA1EDE4B24A973E47ADD526616848
+{
+};
+struct XRDisplaySubsystemDescriptor_t72DD88EE9094488AE723A495F48884BA4EA8311A  : public IntegratedSubsystemDescriptor_1_t7261AA0914165CB589AD41C4F9B463D44E333D7C
+{
+};
+struct XRInputSubsystem_tFECE6683FCAEBF05BAD05E5D612690095D8BAD34  : public IntegratedSubsystem_1_tF93BC76362E85BDD215312162457BE510FC76D3B
+{
+};
+struct XRInputSubsystemDescriptor_t42088DD6542C0BDD27C2951B911E4F69DD1F917D  : public IntegratedSubsystemDescriptor_1_t440D086A98F968B9FC279854F552698F319A32F7
+{
+};
+struct XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8 
+{
+	intptr_t ___displaySubsystemInstance;
+	int32_t ___renderPassIndex;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___renderTarget;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 ___renderTargetDesc;
+	bool ___hasMotionVectorPass;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___motionVectorRenderTarget;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 ___motionVectorRenderTargetDesc;
+	bool ___shouldFillOutDepth;
+	int32_t ___cullingPassIndex;
+	intptr_t ___foveatedRenderingInfo;
+};
+struct XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_pinvoke
+{
+	intptr_t ___displaySubsystemInstance;
+	int32_t ___renderPassIndex;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___renderTarget;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 ___renderTargetDesc;
+	int32_t ___hasMotionVectorPass;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___motionVectorRenderTarget;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 ___motionVectorRenderTargetDesc;
+	int32_t ___shouldFillOutDepth;
+	int32_t ___cullingPassIndex;
+	intptr_t ___foveatedRenderingInfo;
+};
+struct XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_com
+{
+	intptr_t ___displaySubsystemInstance;
+	int32_t ___renderPassIndex;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___renderTarget;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 ___renderTargetDesc;
+	int32_t ___hasMotionVectorPass;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B ___motionVectorRenderTarget;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 ___motionVectorRenderTargetDesc;
+	int32_t ___shouldFillOutDepth;
+	int32_t ___cullingPassIndex;
+	intptr_t ___foveatedRenderingInfo;
+};
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IntegratedSubsystem_1__ctor_mA130811A078A40712D15BFE67E73D0517AB0E989_gshared (IntegratedSubsystem_1_t6CAFC4ADB928A1CB6A1BAA66C12250FB6C841842* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IntegratedSubsystemDescriptor_1__ctor_m94FAA0F6D63A0144035D2645AAE00202B36BE7DC_gshared (IntegratedSubsystemDescriptor_1_t70BCBD395B99126866E0354041C8DCD1CE80A714* __this, const RuntimeMethod* method) ;
+
+inline void IntegratedSubsystem_1__ctor_m0BE780FA80AAFE2DB1209D5731A5E72EFAB7051F (IntegratedSubsystem_1_t8312865F01EEA1EDE4B24A973E47ADD526616848* __this, const RuntimeMethod* method)
+{
+	((  void (*) (IntegratedSubsystem_1_t8312865F01EEA1EDE4B24A973E47ADD526616848*, const RuntimeMethod*))IntegratedSubsystem_1__ctor_mA130811A078A40712D15BFE67E73D0517AB0E989_gshared)(__this, method);
+}
+inline void IntegratedSubsystemDescriptor_1__ctor_mBE55B2B969E5AEF4340234DB6B76F67C009DBB75 (IntegratedSubsystemDescriptor_1_t7261AA0914165CB589AD41C4F9B463D44E333D7C* __this, const RuntimeMethod* method)
+{
+	((  void (*) (IntegratedSubsystemDescriptor_1_t7261AA0914165CB589AD41C4F9B463D44E333D7C*, const RuntimeMethod*))IntegratedSubsystemDescriptor_1__ctor_m94FAA0F6D63A0144035D2645AAE00202B36BE7DC_gshared)(__this, method);
+}
+inline void IntegratedSubsystem_1__ctor_m5A4E8498952FD1A7C4BFF13C388548CB97B060CC (IntegratedSubsystem_1_tF93BC76362E85BDD215312162457BE510FC76D3B* __this, const RuntimeMethod* method)
+{
+	((  void (*) (IntegratedSubsystem_1_tF93BC76362E85BDD215312162457BE510FC76D3B*, const RuntimeMethod*))IntegratedSubsystem_1__ctor_mA130811A078A40712D15BFE67E73D0517AB0E989_gshared)(__this, method);
+}
+inline void IntegratedSubsystemDescriptor_1__ctor_m1289BA32AAFA862973132927F7EA8FB1A9A169C3 (IntegratedSubsystemDescriptor_1_t440D086A98F968B9FC279854F552698F319A32F7* __this, const RuntimeMethod* method)
+{
+	((  void (*) (IntegratedSubsystemDescriptor_1_t440D086A98F968B9FC279854F552698F319A32F7*, const RuntimeMethod*))IntegratedSubsystemDescriptor_1__ctor_m94FAA0F6D63A0144035D2645AAE00202B36BE7DC_gshared)(__this, method);
+}
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRDisplaySubsystem__ctor_m5DA92849F107C6A802BF584D5E328FF2DB971B01 (XRDisplaySubsystem_t4B00B0BF1894A039ACFA8DDC2C2EB9301118C1F1* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IntegratedSubsystem_1__ctor_m0BE780FA80AAFE2DB1209D5731A5E72EFAB7051F_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		IntegratedSubsystem_1__ctor_m0BE780FA80AAFE2DB1209D5731A5E72EFAB7051F(__this, IntegratedSubsystem_1__ctor_m0BE780FA80AAFE2DB1209D5731A5E72EFAB7051F_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshal_pinvoke(const XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8& unmarshaled, XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_pinvoke& marshaled)
+{
+	marshaled.___displaySubsystemInstance = unmarshaled.___displaySubsystemInstance;
+	marshaled.___renderPassIndex = unmarshaled.___renderPassIndex;
+	marshaled.___renderTarget = unmarshaled.___renderTarget;
+	marshaled.___renderTargetDesc = unmarshaled.___renderTargetDesc;
+	marshaled.___hasMotionVectorPass = static_cast<int32_t>(unmarshaled.___hasMotionVectorPass);
+	marshaled.___motionVectorRenderTarget = unmarshaled.___motionVectorRenderTarget;
+	marshaled.___motionVectorRenderTargetDesc = unmarshaled.___motionVectorRenderTargetDesc;
+	marshaled.___shouldFillOutDepth = static_cast<int32_t>(unmarshaled.___shouldFillOutDepth);
+	marshaled.___cullingPassIndex = unmarshaled.___cullingPassIndex;
+	marshaled.___foveatedRenderingInfo = unmarshaled.___foveatedRenderingInfo;
+}
+IL2CPP_EXTERN_C void XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshal_pinvoke_back(const XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_pinvoke& marshaled, XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8& unmarshaled)
+{
+	intptr_t unmarshaleddisplaySubsystemInstance_temp_0;
+	memset((&unmarshaleddisplaySubsystemInstance_temp_0), 0, sizeof(unmarshaleddisplaySubsystemInstance_temp_0));
+	unmarshaleddisplaySubsystemInstance_temp_0 = marshaled.___displaySubsystemInstance;
+	unmarshaled.___displaySubsystemInstance = unmarshaleddisplaySubsystemInstance_temp_0;
+	int32_t unmarshaledrenderPassIndex_temp_1 = 0;
+	unmarshaledrenderPassIndex_temp_1 = marshaled.___renderPassIndex;
+	unmarshaled.___renderPassIndex = unmarshaledrenderPassIndex_temp_1;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B unmarshaledrenderTarget_temp_2;
+	memset((&unmarshaledrenderTarget_temp_2), 0, sizeof(unmarshaledrenderTarget_temp_2));
+	unmarshaledrenderTarget_temp_2 = marshaled.___renderTarget;
+	unmarshaled.___renderTarget = unmarshaledrenderTarget_temp_2;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 unmarshaledrenderTargetDesc_temp_3;
+	memset((&unmarshaledrenderTargetDesc_temp_3), 0, sizeof(unmarshaledrenderTargetDesc_temp_3));
+	unmarshaledrenderTargetDesc_temp_3 = marshaled.___renderTargetDesc;
+	unmarshaled.___renderTargetDesc = unmarshaledrenderTargetDesc_temp_3;
+	bool unmarshaledhasMotionVectorPass_temp_4 = false;
+	unmarshaledhasMotionVectorPass_temp_4 = static_cast<bool>(marshaled.___hasMotionVectorPass);
+	unmarshaled.___hasMotionVectorPass = unmarshaledhasMotionVectorPass_temp_4;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B unmarshaledmotionVectorRenderTarget_temp_5;
+	memset((&unmarshaledmotionVectorRenderTarget_temp_5), 0, sizeof(unmarshaledmotionVectorRenderTarget_temp_5));
+	unmarshaledmotionVectorRenderTarget_temp_5 = marshaled.___motionVectorRenderTarget;
+	unmarshaled.___motionVectorRenderTarget = unmarshaledmotionVectorRenderTarget_temp_5;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 unmarshaledmotionVectorRenderTargetDesc_temp_6;
+	memset((&unmarshaledmotionVectorRenderTargetDesc_temp_6), 0, sizeof(unmarshaledmotionVectorRenderTargetDesc_temp_6));
+	unmarshaledmotionVectorRenderTargetDesc_temp_6 = marshaled.___motionVectorRenderTargetDesc;
+	unmarshaled.___motionVectorRenderTargetDesc = unmarshaledmotionVectorRenderTargetDesc_temp_6;
+	bool unmarshaledshouldFillOutDepth_temp_7 = false;
+	unmarshaledshouldFillOutDepth_temp_7 = static_cast<bool>(marshaled.___shouldFillOutDepth);
+	unmarshaled.___shouldFillOutDepth = unmarshaledshouldFillOutDepth_temp_7;
+	int32_t unmarshaledcullingPassIndex_temp_8 = 0;
+	unmarshaledcullingPassIndex_temp_8 = marshaled.___cullingPassIndex;
+	unmarshaled.___cullingPassIndex = unmarshaledcullingPassIndex_temp_8;
+	intptr_t unmarshaledfoveatedRenderingInfo_temp_9;
+	memset((&unmarshaledfoveatedRenderingInfo_temp_9), 0, sizeof(unmarshaledfoveatedRenderingInfo_temp_9));
+	unmarshaledfoveatedRenderingInfo_temp_9 = marshaled.___foveatedRenderingInfo;
+	unmarshaled.___foveatedRenderingInfo = unmarshaledfoveatedRenderingInfo_temp_9;
+}
+IL2CPP_EXTERN_C void XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshal_pinvoke_cleanup(XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_pinvoke& marshaled)
+{
+}
+IL2CPP_EXTERN_C void XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshal_com(const XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8& unmarshaled, XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_com& marshaled)
+{
+	marshaled.___displaySubsystemInstance = unmarshaled.___displaySubsystemInstance;
+	marshaled.___renderPassIndex = unmarshaled.___renderPassIndex;
+	marshaled.___renderTarget = unmarshaled.___renderTarget;
+	marshaled.___renderTargetDesc = unmarshaled.___renderTargetDesc;
+	marshaled.___hasMotionVectorPass = static_cast<int32_t>(unmarshaled.___hasMotionVectorPass);
+	marshaled.___motionVectorRenderTarget = unmarshaled.___motionVectorRenderTarget;
+	marshaled.___motionVectorRenderTargetDesc = unmarshaled.___motionVectorRenderTargetDesc;
+	marshaled.___shouldFillOutDepth = static_cast<int32_t>(unmarshaled.___shouldFillOutDepth);
+	marshaled.___cullingPassIndex = unmarshaled.___cullingPassIndex;
+	marshaled.___foveatedRenderingInfo = unmarshaled.___foveatedRenderingInfo;
+}
+IL2CPP_EXTERN_C void XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshal_com_back(const XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_com& marshaled, XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8& unmarshaled)
+{
+	intptr_t unmarshaleddisplaySubsystemInstance_temp_0;
+	memset((&unmarshaleddisplaySubsystemInstance_temp_0), 0, sizeof(unmarshaleddisplaySubsystemInstance_temp_0));
+	unmarshaleddisplaySubsystemInstance_temp_0 = marshaled.___displaySubsystemInstance;
+	unmarshaled.___displaySubsystemInstance = unmarshaleddisplaySubsystemInstance_temp_0;
+	int32_t unmarshaledrenderPassIndex_temp_1 = 0;
+	unmarshaledrenderPassIndex_temp_1 = marshaled.___renderPassIndex;
+	unmarshaled.___renderPassIndex = unmarshaledrenderPassIndex_temp_1;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B unmarshaledrenderTarget_temp_2;
+	memset((&unmarshaledrenderTarget_temp_2), 0, sizeof(unmarshaledrenderTarget_temp_2));
+	unmarshaledrenderTarget_temp_2 = marshaled.___renderTarget;
+	unmarshaled.___renderTarget = unmarshaledrenderTarget_temp_2;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 unmarshaledrenderTargetDesc_temp_3;
+	memset((&unmarshaledrenderTargetDesc_temp_3), 0, sizeof(unmarshaledrenderTargetDesc_temp_3));
+	unmarshaledrenderTargetDesc_temp_3 = marshaled.___renderTargetDesc;
+	unmarshaled.___renderTargetDesc = unmarshaledrenderTargetDesc_temp_3;
+	bool unmarshaledhasMotionVectorPass_temp_4 = false;
+	unmarshaledhasMotionVectorPass_temp_4 = static_cast<bool>(marshaled.___hasMotionVectorPass);
+	unmarshaled.___hasMotionVectorPass = unmarshaledhasMotionVectorPass_temp_4;
+	RenderTargetIdentifier_tA528663AC6EB3911D8E91AA40F7070FA5455442B unmarshaledmotionVectorRenderTarget_temp_5;
+	memset((&unmarshaledmotionVectorRenderTarget_temp_5), 0, sizeof(unmarshaledmotionVectorRenderTarget_temp_5));
+	unmarshaledmotionVectorRenderTarget_temp_5 = marshaled.___motionVectorRenderTarget;
+	unmarshaled.___motionVectorRenderTarget = unmarshaledmotionVectorRenderTarget_temp_5;
+	RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 unmarshaledmotionVectorRenderTargetDesc_temp_6;
+	memset((&unmarshaledmotionVectorRenderTargetDesc_temp_6), 0, sizeof(unmarshaledmotionVectorRenderTargetDesc_temp_6));
+	unmarshaledmotionVectorRenderTargetDesc_temp_6 = marshaled.___motionVectorRenderTargetDesc;
+	unmarshaled.___motionVectorRenderTargetDesc = unmarshaledmotionVectorRenderTargetDesc_temp_6;
+	bool unmarshaledshouldFillOutDepth_temp_7 = false;
+	unmarshaledshouldFillOutDepth_temp_7 = static_cast<bool>(marshaled.___shouldFillOutDepth);
+	unmarshaled.___shouldFillOutDepth = unmarshaledshouldFillOutDepth_temp_7;
+	int32_t unmarshaledcullingPassIndex_temp_8 = 0;
+	unmarshaledcullingPassIndex_temp_8 = marshaled.___cullingPassIndex;
+	unmarshaled.___cullingPassIndex = unmarshaledcullingPassIndex_temp_8;
+	intptr_t unmarshaledfoveatedRenderingInfo_temp_9;
+	memset((&unmarshaledfoveatedRenderingInfo_temp_9), 0, sizeof(unmarshaledfoveatedRenderingInfo_temp_9));
+	unmarshaledfoveatedRenderingInfo_temp_9 = marshaled.___foveatedRenderingInfo;
+	unmarshaled.___foveatedRenderingInfo = unmarshaledfoveatedRenderingInfo_temp_9;
+}
+IL2CPP_EXTERN_C void XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshal_com_cleanup(XRRenderPass_t9E8711E8C69E3917AA39A0CA8304B604ED2838E8_marshaled_com& marshaled)
+{
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshal_pinvoke(const XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9& unmarshaled, XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_pinvoke& marshaled)
+{
+	Exception_t* ___srcTexException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field 'srcTex' of type 'XRBlitParams': Reference type field marshaling is not supported.");
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___srcTexException, NULL);
+}
+IL2CPP_EXTERN_C void XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshal_pinvoke_back(const XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_pinvoke& marshaled, XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9& unmarshaled)
+{
+	Exception_t* ___srcTexException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field 'srcTex' of type 'XRBlitParams': Reference type field marshaling is not supported.");
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___srcTexException, NULL);
+}
+IL2CPP_EXTERN_C void XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshal_pinvoke_cleanup(XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_pinvoke& marshaled)
+{
+}
+IL2CPP_EXTERN_C void XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshal_com(const XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9& unmarshaled, XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_com& marshaled)
+{
+	Exception_t* ___srcTexException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field 'srcTex' of type 'XRBlitParams': Reference type field marshaling is not supported.");
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___srcTexException, NULL);
+}
+IL2CPP_EXTERN_C void XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshal_com_back(const XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_com& marshaled, XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9& unmarshaled)
+{
+	Exception_t* ___srcTexException = il2cpp_codegen_get_marshal_directive_exception("Cannot marshal field 'srcTex' of type 'XRBlitParams': Reference type field marshaling is not supported.");
+	IL2CPP_RAISE_MANAGED_EXCEPTION(___srcTexException, NULL);
+}
+IL2CPP_EXTERN_C void XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshal_com_cleanup(XRBlitParams_tB6F9130166CF43540F2547163E8542CFC7266CD9_marshaled_com& marshaled)
+{
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshal_pinvoke(const XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0& unmarshaled, XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_pinvoke& marshaled)
+{
+	marshaled.___displaySubsystemInstance = unmarshaled.___displaySubsystemInstance;
+	marshaled.___nativeBlitAvailable = static_cast<int32_t>(unmarshaled.___nativeBlitAvailable);
+	marshaled.___nativeBlitInvalidStates = static_cast<int32_t>(unmarshaled.___nativeBlitInvalidStates);
+	marshaled.___blitParamsCount = unmarshaled.___blitParamsCount;
+}
+IL2CPP_EXTERN_C void XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshal_pinvoke_back(const XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_pinvoke& marshaled, XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0& unmarshaled)
+{
+	intptr_t unmarshaleddisplaySubsystemInstance_temp_0;
+	memset((&unmarshaleddisplaySubsystemInstance_temp_0), 0, sizeof(unmarshaleddisplaySubsystemInstance_temp_0));
+	unmarshaleddisplaySubsystemInstance_temp_0 = marshaled.___displaySubsystemInstance;
+	unmarshaled.___displaySubsystemInstance = unmarshaleddisplaySubsystemInstance_temp_0;
+	bool unmarshalednativeBlitAvailable_temp_1 = false;
+	unmarshalednativeBlitAvailable_temp_1 = static_cast<bool>(marshaled.___nativeBlitAvailable);
+	unmarshaled.___nativeBlitAvailable = unmarshalednativeBlitAvailable_temp_1;
+	bool unmarshalednativeBlitInvalidStates_temp_2 = false;
+	unmarshalednativeBlitInvalidStates_temp_2 = static_cast<bool>(marshaled.___nativeBlitInvalidStates);
+	unmarshaled.___nativeBlitInvalidStates = unmarshalednativeBlitInvalidStates_temp_2;
+	int32_t unmarshaledblitParamsCount_temp_3 = 0;
+	unmarshaledblitParamsCount_temp_3 = marshaled.___blitParamsCount;
+	unmarshaled.___blitParamsCount = unmarshaledblitParamsCount_temp_3;
+}
+IL2CPP_EXTERN_C void XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshal_pinvoke_cleanup(XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_pinvoke& marshaled)
+{
+}
+IL2CPP_EXTERN_C void XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshal_com(const XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0& unmarshaled, XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_com& marshaled)
+{
+	marshaled.___displaySubsystemInstance = unmarshaled.___displaySubsystemInstance;
+	marshaled.___nativeBlitAvailable = static_cast<int32_t>(unmarshaled.___nativeBlitAvailable);
+	marshaled.___nativeBlitInvalidStates = static_cast<int32_t>(unmarshaled.___nativeBlitInvalidStates);
+	marshaled.___blitParamsCount = unmarshaled.___blitParamsCount;
+}
+IL2CPP_EXTERN_C void XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshal_com_back(const XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_com& marshaled, XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0& unmarshaled)
+{
+	intptr_t unmarshaleddisplaySubsystemInstance_temp_0;
+	memset((&unmarshaleddisplaySubsystemInstance_temp_0), 0, sizeof(unmarshaleddisplaySubsystemInstance_temp_0));
+	unmarshaleddisplaySubsystemInstance_temp_0 = marshaled.___displaySubsystemInstance;
+	unmarshaled.___displaySubsystemInstance = unmarshaleddisplaySubsystemInstance_temp_0;
+	bool unmarshalednativeBlitAvailable_temp_1 = false;
+	unmarshalednativeBlitAvailable_temp_1 = static_cast<bool>(marshaled.___nativeBlitAvailable);
+	unmarshaled.___nativeBlitAvailable = unmarshalednativeBlitAvailable_temp_1;
+	bool unmarshalednativeBlitInvalidStates_temp_2 = false;
+	unmarshalednativeBlitInvalidStates_temp_2 = static_cast<bool>(marshaled.___nativeBlitInvalidStates);
+	unmarshaled.___nativeBlitInvalidStates = unmarshalednativeBlitInvalidStates_temp_2;
+	int32_t unmarshaledblitParamsCount_temp_3 = 0;
+	unmarshaledblitParamsCount_temp_3 = marshaled.___blitParamsCount;
+	unmarshaled.___blitParamsCount = unmarshaledblitParamsCount_temp_3;
+}
+IL2CPP_EXTERN_C void XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshal_com_cleanup(XRMirrorViewBlitDesc_tC913B2856BA2160BC3AD99F0C67293850E2162E0_marshaled_com& marshaled)
+{
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRDisplaySubsystemDescriptor__ctor_mB9B2993D74FFC580731C03B390C764260458FAA6 (XRDisplaySubsystemDescriptor_t72DD88EE9094488AE723A495F48884BA4EA8311A* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IntegratedSubsystemDescriptor_1__ctor_mBE55B2B969E5AEF4340234DB6B76F67C009DBB75_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		IntegratedSubsystemDescriptor_1__ctor_mBE55B2B969E5AEF4340234DB6B76F67C009DBB75(__this, IntegratedSubsystemDescriptor_1__ctor_mBE55B2B969E5AEF4340234DB6B76F67C009DBB75_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRInputSubsystem__ctor_mD0260427CD99745155B171BB6D03862B3CE303E4 (XRInputSubsystem_tFECE6683FCAEBF05BAD05E5D612690095D8BAD34* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IntegratedSubsystem_1__ctor_m5A4E8498952FD1A7C4BFF13C388548CB97B060CC_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		IntegratedSubsystem_1__ctor_m5A4E8498952FD1A7C4BFF13C388548CB97B060CC(__this, IntegratedSubsystem_1__ctor_m5A4E8498952FD1A7C4BFF13C388548CB97B060CC_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRInputSubsystemDescriptor__ctor_m7DFAE8F8670A5721F02B0AE27BB47389BA0F8DFB (XRInputSubsystemDescriptor_t42088DD6542C0BDD27C2951B911E4F69DD1F917D* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IntegratedSubsystemDescriptor_1__ctor_m1289BA32AAFA862973132927F7EA8FB1A9A169C3_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		IntegratedSubsystemDescriptor_1__ctor_m1289BA32AAFA862973132927F7EA8FB1A9A169C3(__this, IntegratedSubsystemDescriptor_1__ctor_m1289BA32AAFA862973132927F7EA8FB1A9A169C3_RuntimeMethod_var);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif

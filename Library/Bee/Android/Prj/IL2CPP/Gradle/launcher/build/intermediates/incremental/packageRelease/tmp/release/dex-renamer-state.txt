@@ -1,0 +1,4 @@
+#Sun Feb 25 15:18:29 CST 2024
+base.0=C\:\\Users\\alans\\OneDrive\\Desktop\\Practicas TSDIC3\\Practicas_Alan_Sanchez\\Practica1_AlanSanchez\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
